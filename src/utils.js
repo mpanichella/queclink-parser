@@ -37,6 +37,7 @@ const devices = {
   '2F': 'GV55', // New Version
   '30': 'GL300', // New Version
   '36': 'GV500', // New Version
+  '5E': 'GV500MAP',
   '2C': 'GL300W', // New version
   '3F': 'GMT100', // New version
   F8: 'GV800W',
